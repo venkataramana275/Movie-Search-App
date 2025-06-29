@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Movie-Search-App/static/css/main.e686343c.css",
-    "main.js": "/Movie-Search-App/static/js/main.25d8f276.js",
-    "index.html": "/Movie-Search-App/index.html",
-    "main.e686343c.css.map": "/Movie-Search-App/static/css/main.e686343c.css.map",
-    "main.25d8f276.js.map": "/Movie-Search-App/static/js/main.25d8f276.js.map"
+    "main.css": "/https//venkataramana275.github.io/Movie-Search-App/static/css/main.e686343c.css",
+    "main.js": "/https//venkataramana275.github.io/Movie-Search-App/static/js/main.43e41abb.js",
+    "index.html": "/https//venkataramana275.github.io/Movie-Search-App/index.html",
+    "main.e686343c.css.map": "/https//venkataramana275.github.io/Movie-Search-App/static/css/main.e686343c.css.map",
+    "main.43e41abb.js.map": "/https//venkataramana275.github.io/Movie-Search-App/static/js/main.43e41abb.js.map"
   },
   "entrypoints": [
     "static/css/main.e686343c.css",
-    "static/js/main.25d8f276.js"
+    "static/js/main.43e41abb.js"
   ]
 }
