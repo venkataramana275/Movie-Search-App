@@ -65,7 +65,7 @@ nav {
 
 nav a {
   text-decoration: none;
-  color: black;
+  color: red;
   font-weight: bold;
 }
 
@@ -382,7 +382,7 @@ nav {
 
 nav a {
   text-decoration: none;
-  color: black;
+  color: red;
   font-weight: bold;
   text-align: center;
 }
